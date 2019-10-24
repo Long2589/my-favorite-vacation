@@ -3,6 +3,7 @@
 My favorite vacations have always involved backpacking. Some of my favorite destinations include:
 
 * **King's Canyon** / The John Muir Trail   _California_
+  ![King's Canyon sign](https://images.app.goo.gl/XFLCCwRfEmwava3u5)
 * **The Wind River Mountains** / Cirque of the Towers   _Wyoming_
 * **Paria Canyon**   _Utah_
 * **The Sawtooth Mountains**   _Idaho_
